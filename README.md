@@ -11,3 +11,5 @@
 - **Rama:** feature/frontend
 - **Responsable:** Mario Bosque Avelleira
 - **Participantes:** Teodosio Donaire González y Mario Bosque Avelleira
+
+CAMBIO SCRUM Y JIRA
